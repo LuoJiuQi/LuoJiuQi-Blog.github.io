@@ -1,0 +1,1 @@
+import{_ as a,c as s,e,o as t}from"./index-BblbBv7J.js";const n={},o={class:"archive-container"};function r(i,c){return t(),s("div",o,[...c[0]||(c[0]=[e("h2",null,"文章归档",-1),e("div",{class:"archive-content"},[e("p",null,"归档功能正在开发中...")],-1)])])}const l=a(n,[["render",r],["__scopeId","data-v-a4eae5b2"]]);export{l as default};

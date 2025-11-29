@@ -1,0 +1,1 @@
+import{_ as t,c as a,e,o as c}from"./index-BblbBv7J.js";const n={},o={class:"tags-container"};function r(_,s){return c(),a("div",o,[...s[0]||(s[0]=[e("h2",null,"标签",-1),e("div",{class:"tags-content"},[e("p",null,"标签功能正在开发中...")],-1)])])}const d=t(n,[["render",r],["__scopeId","data-v-a4a966c5"]]);export{d as default};
