@@ -1,0 +1,11 @@
+/* 简化style.css，只保留必要的基础样式，主要样式定义在App.vue中 */
+* {
+  box-sizing: border-box;
+}
+
+/* 重置默认样式 */
+button {
+  cursor: pointer;
+}
+
+/* 移除默认样式，使用App.vue中的flex布局 */
